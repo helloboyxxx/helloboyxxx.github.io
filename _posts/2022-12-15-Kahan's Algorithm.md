@@ -2,7 +2,7 @@
 layout: post
 title: "Kahan's summation algorithm"
 subtitle: "Add up all numbers!"
-date: 2022-12-11 02:11:01 -0400
+date: 2022-12-15 22:06:54 -0400
 background: '/img/posts/Kahan/Principia_Mathematica_54-43.png'
 ---
 ### Intro
